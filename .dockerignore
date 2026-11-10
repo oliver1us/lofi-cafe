@@ -1,0 +1,24 @@
+# Deny by default: do not send local dependencies, tests, evidence, credentials or build artifacts.
+**
+!Dockerfile
+!package.json
+!package-lock.json
+!index.html
+!tsconfig.json
+!vite.config.ts
+!src/
+!src/**
+!public/
+!public/**
+!server/
+!server/**
+
+# Keep these excluded even if added under an allowed directory in the future.
+**/.env
+**/.env.*
+**/.git
+**/.git/**
+**/node_modules
+**/node_modules/**
+**/*.pem
+**/*.key

@@ -1,0 +1,47 @@
+name: lofi-cafe
+
+services:
+  web:
+    image: lofi-cafe:local
+    build:
+      context: .
+      dockerfile: Dockerfile
+    # Local access only by default. Use a TLS reverse proxy for public exposure.
+    ports:
+      # - "127.0.0.1:${LOFI_PORT:-8081}:8080"
+      - "${LOFI_PORT:-8081}:8080"
+    environment:
+      NODE_ENV: production
+      PORT: "8080"
+      NODE_OPTIONS: "--max-old-space-size=128"
+    user: "65532:65532"
+    read_only: true
+    cap_drop:
+      - ALL
+    security_opt:
+      - no-new-privileges:true
+    init: true
+    restart: unless-stopped
+    pids_limit: 64
+    mem_limit: 256m
+    memswap_limit: 256m
+    cpus: "0.50"
+    ulimits:
+      nofile:
+        soft: 4096
+        hard: 4096
+    stop_grace_period: 10s
+    # Healthcheck inherited from the Dockerfile: Node, no shell or curl required.
+    networks:
+      - app
+    logging:
+      driver: local
+      options:
+        max-size: "10m"
+        max-file: "3"
+
+networks:
+  app:
+    # Dedicated bridge, not host networking. An internal-only network prevents port
+    # publication on some Docker versions; ingress remains bound to loopback above.
+    driver: bridge

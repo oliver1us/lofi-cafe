@@ -1,0 +1,35 @@
+# Dependencies and generated builds
+node_modules/
+/dist/
+*.tsbuildinfo
+
+# Test output (keep test sources in the repository)
+/test-results/
+/playwright-report/
+/blob-report/
+/coverage/
+
+# Local documentation, inspection artifacts and captures
+/docs/
+/scripts/compare-reference.mjs
+/.opencode/
+
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+.npmrc
+
+# Logs, editor and OS files
+*.log
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
