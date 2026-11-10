@@ -1,0 +1,643 @@
+{
+  "source": "https://www.lofi.cafe/",
+  "capturedAt": "2026-11-09",
+  "note": "Original artwork, icons, font and audio remain the property of their respective authors. No original analytics or application bundle is included.",
+  "assets": [
+    {
+      "url": "https://www.lofi.cafe/static/media/beats1.bb5eeeaf5e12eb140b2085e360322ceb.svg",
+      "path": "assets/icons/beats1.svg",
+      "bytes": 315,
+      "sha256": "da307b4899872203133e29569bcf4e24cfddf7379a34480b304a98bb8b259caf"
+    },
+    {
+      "url": "https://www.lofi.cafe/static/media/beats2.6d67e4f11e9c084b2817427290637fd3.svg",
+      "path": "assets/icons/beats2.svg",
+      "bytes": 315,
+      "sha256": "ff79632f8f383a743802a39ba1fb53704d177f9a42fafcbc23db218cc789012c"
+    },
+    {
+      "url": "https://www.lofi.cafe/static/media/beats3.b7b47b9b25816b7c9e7f1cd872ca639f.svg",
+      "path": "assets/icons/beats3.svg",
+      "bytes": 315,
+      "sha256": "2ff02e83130287c86cd7ccec545241ec68c5eb05bf6efda8795a65eb40815fe8"
+    },
+    {
+      "url": "https://www.lofi.cafe/static/media/beats4.ad9152084f76fecf11d6eb2fc805bcb0.svg",
+      "path": "assets/icons/beats4.svg",
+      "bytes": 315,
+      "sha256": "e87bb6cd9a9bf86066b2953357d68c0b25631b529cb80f3c322fd48d894001bd"
+    },
+    {
+      "url": "https://www.lofi.cafe/static/media/beatsMute.70cdfd3cb975f90e8ee7697ace2d5a32.svg",
+      "path": "assets/icons/beatsMute.svg",
+      "bytes": 315,
+      "sha256": "e260719f5476f4e40ea05fb65064110cf1181a43f249781471e6854c8dce2166"
+    },
+    {
+      "url": "https://www.lofi.cafe/static/media/boot.47b60944565bd3fea319.mp3",
+      "path": "assets/sounds/boot.mp3",
+      "bytes": 86643,
+      "sha256": "1d6fa013ba11d9427856a577fece8d6ab7758563c1b9c58af2c2a9f682346d80"
+    },
+    {
+      "url": "https://www.lofi.cafe/static/media/buffering1.27886777101c621c31416245710f6659.svg",
+      "path": "assets/icons/buffering1.svg",
+      "bytes": 153,
+      "sha256": "8648d100eb3ffe537548e38e257aa184f82fe334549641d95904d3ab61ca0ae4"
+    },
+    {
+      "url": "https://www.lofi.cafe/static/media/buffering2.97cf3daf37d6762a05277c38c46226f1.svg",
+      "path": "assets/icons/buffering2.svg",
+      "bytes": 207,
+      "sha256": "986e444164838e6c9a4a6229684dfff6cb882a58220e51cf9a2f5d06a3faa290"
+    },
+    {
+      "url": "https://www.lofi.cafe/static/media/buffering3.34a0de3c7a327c07840aa67a960fefb1.svg",
+      "path": "assets/icons/buffering3.svg",
+      "bytes": 261,
+      "sha256": "ab74af7edd7759d32336c4222306ba983eed843555a4abba3a25ae002af7d448"
+    },
+    {
+      "url": "https://www.lofi.cafe/static/media/buffering4.e55cf19d84e61700426e04bcc4320f67.svg",
+      "path": "assets/icons/buffering4.svg",
+      "bytes": 315,
+      "sha256": "e72d57fb74231a6b46570e4b1b09129a500d1484285b706d22db7d82548615d2"
+    },
+    {
+      "url": "https://www.lofi.cafe/static/media/checkmark.27630148953abdf68a5736daa2f1248e.svg",
+      "path": "assets/icons/checkmark.svg",
+      "bytes": 186,
+      "sha256": "75acdfbc3cee62cb1c15c1a43627499d516e769f3880e3b936c64ee141fe244e"
+    },
+    {
+      "url": "https://www.lofi.cafe/static/media/endPause.d5eb5059448b5994db25.mp3",
+      "path": "assets/sounds/endPause.mp3",
+      "bytes": 76821,
+      "sha256": "cc1e7d4faaab90c3b7d4ccf7c5dd0bba6790be2d12695eb829ed6cfc89b1a724"
+    },
+    {
+      "url": "https://www.lofi.cafe/static/media/endWork.05b9f5ea3cc31a1afb42.mp3",
+      "path": "assets/sounds/endWork.mp3",
+      "bytes": 41086,
+      "sha256": "ccd1307ec82ada5fbb33fd09c54dc4b985fbe8982c605c37d14ee58a0ce2c948"
+    },
+    {
+      "url": "https://www.lofi.cafe/static/media/facebook.3fe0a51552a4edf9d1bedb083816c11c.svg",
+      "path": "assets/icons/facebook.svg",
+      "bytes": 166,
+      "sha256": "2a7d2b63d0f69c0c816e76544ac63ce62bcb528253d911dcd5157fbbd36f4c4d"
+    },
+    {
+      "url": "https://www.lofi.cafe/static/media/forward.64c7a860feca4d95b46009f7a885fb1f.svg",
+      "path": "assets/icons/forward.svg",
+      "bytes": 186,
+      "sha256": "8ebc668a935d87c164cafce7feef3af680f5e6f9e2f90f236597cc248f829831"
+    },
+    {
+      "url": "https://www.lofi.cafe/static/media/fullscreen-enter.47fab6dbae6801c0ddd2ced86728a355.svg",
+      "path": "assets/icons/fullscreen-enter.svg",
+      "bytes": 215,
+      "sha256": "b4cd387a1578317490ff14cf4ac390fdacef41cfc4499234e81b77357ce41735"
+    },
+    {
+      "url": "https://www.lofi.cafe/static/media/fullscreen-exit.93379b1ebfda738f8c57b39a91d366c3.svg",
+      "path": "assets/icons/fullscreen-exit.svg",
+      "bytes": 260,
+      "sha256": "9163621216306ae7e8311ae36d300a2009a99161af3824b6cc20254adf4a1e54"
+    },
+    {
+      "url": "https://www.lofi.cafe/static/media/heart.0513072ea9b2476a875da0448afead06.svg",
+      "path": "assets/icons/heart.svg",
+      "bytes": 186,
+      "sha256": "cc2507cd60cfdb32dc0cb132c2a6f72bfeb3d376825b325065c326b8bbf2bef6"
+    },
+    {
+      "url": "https://www.lofi.cafe/static/media/mail.7a7748f6bdf833b6036e7ea77f34a19d.svg",
+      "path": "assets/icons/mail.svg",
+      "bytes": 225,
+      "sha256": "e645d8e253ffae8e97e81abd7334d1f82df6c94461946fed9c3faf4db2a38316"
+    },
+    {
+      "url": "https://www.lofi.cafe/static/media/mailbrew.3d6186a75b48e1e290db07ca08d9a1a7.svg",
+      "path": "assets/icons/mailbrew.svg",
+      "bytes": 209,
+      "sha256": "c572ef8b2a3b2aedcc922228ecf5c4a138f1b6328ca76165d7ed0ba98627288c"
+    },
+    {
+      "url": "https://www.lofi.cafe/static/media/open.b33a26e71135ed283415e83cd464f85c.svg",
+      "path": "assets/icons/open.svg",
+      "bytes": 314,
+      "sha256": "be920ce12e84b7f6d768050ce7c87e6083324175dcffea9cb7795c2521d06c9a"
+    },
+    {
+      "url": "https://www.lofi.cafe/static/media/pause.69ddfc29dadcaf882ae65492bd66a328.svg",
+      "path": "assets/icons/pause.svg",
+      "bytes": 207,
+      "sha256": "5a306e497db24ab472269e1c06472781e985fce52149e63f3bf31d336f8b81f6"
+    },
+    {
+      "url": "https://www.lofi.cafe/static/media/play.1055bee622213985d4ecb5fe784e4cef.svg",
+      "path": "assets/icons/play.svg",
+      "bytes": 162,
+      "sha256": "92921484e179b76cc6bee2f0249d3e18e9975ad2dd0fc90b5fb530aa1d7125e9"
+    },
+    {
+      "url": "https://www.lofi.cafe/static/media/previous.17bb0c5758c4d87762a0aa8acd55d6e7.svg",
+      "path": "assets/icons/previous.svg",
+      "bytes": 186,
+      "sha256": "4655f752a484a3fb9ed262cf7d3106c65ad50f1aaa1de35f1bc4d08da2ff6d93"
+    },
+    {
+      "url": "https://www.lofi.cafe/static/media/shuffle.53b14e6b44f6ab0d48ffa84fb5075f64.svg",
+      "path": "assets/icons/shuffle.svg",
+      "bytes": 256,
+      "sha256": "9c325ded173970aa01d1389c1ca0cdc5736a32544e36556b5662ea654a4cd75e"
+    },
+    {
+      "url": "https://www.lofi.cafe/static/media/static.c9617a7eff4ebff424fe.mp3",
+      "path": "assets/sounds/static.mp3",
+      "bytes": 7022,
+      "sha256": "eb04cc7eed324ba55a00f6ad1b631be970d958445c6519e43338afb370bca258"
+    },
+    {
+      "url": "https://www.lofi.cafe/static/media/timer.1427f4b2b3997eaa823e113a573789ed.svg",
+      "path": "assets/icons/timer.svg",
+      "bytes": 282,
+      "sha256": "c46ea62ec54b3f5d9325983c6a5444eee0c994674226908275c6f00cd7d2461a"
+    },
+    {
+      "url": "https://www.lofi.cafe/static/media/twitter.26696d4a7aea16010728faa8bdb5a0ef.svg",
+      "path": "assets/icons/twitter.svg",
+      "bytes": 182,
+      "sha256": "ea108878075b5ae33685ad3c8a1750022d9ee40ab7a29a797ff9008d029313c4"
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/2yzgWbRc97QOIUpklz.gif",
+      "path": "assets/gifs/2yzgWbRc97QOIUpklz.gif",
+      "sha256": "739077da3720bae4ddeef79ceb2ec5669310abfa65d20c246926715e9187c238",
+      "bytes": 3135030
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/fqtxCwUd2t6dCzILMq.gif",
+      "path": "assets/gifs/fqtxCwUd2t6dCzILMq.gif",
+      "sha256": "3a5c73462273a5f69c2f8d9c82e17d57c29eb9ddb2e8cf0d4e0d4e15040ebd98",
+      "bytes": 2511614
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/3dhmyq6EKw2x7eFt4X.gif",
+      "path": "assets/gifs/3dhmyq6EKw2x7eFt4X.gif",
+      "sha256": "71a391c697f5bfdc6347c4857c1122ea8e4386169f413ddd1f83c221ca55c757",
+      "bytes": 2390095
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/3oEjHGokRZdOBbcZuo.gif",
+      "path": "assets/gifs/3oEjHGokRZdOBbcZuo.gif",
+      "sha256": "ffdbd98e0039cd5448425df65e26e9fdd63f8933c3a9de6769001c029b89ed48",
+      "bytes": 2235873
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/wKnqovL33x9in9ci6X.gif",
+      "path": "assets/gifs/wKnqovL33x9in9ci6X.gif",
+      "sha256": "78b17863b827c6a38621cda3ae502accd21e52b326877201597c0d412bfc8c0b",
+      "bytes": 2137465
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/KETTXY34XNgWZBxvqx.gif",
+      "path": "assets/gifs/KETTXY34XNgWZBxvqx.gif",
+      "sha256": "c17ad8b882e9709ae26f75457bc96cad255927bdff965cf4b47586f6058341be",
+      "bytes": 2060240
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/NKEt9elQ5cR68.gif",
+      "path": "assets/gifs/NKEt9elQ5cR68.gif",
+      "sha256": "eaa0bb5e275c5fa0cc3b715bbd0bf405a517fa78561c0137028a88ea196ebb41",
+      "bytes": 1852611
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/Basrh159dGwKY.gif",
+      "path": "assets/gifs/Basrh159dGwKY.gif",
+      "sha256": "012f9df29e90dd008b61174fe3e2506ce64f7cb62cf5b91a6d3e29c54d95a537",
+      "bytes": 1813405
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/mJhkYA1gnvY7r481qL.gif",
+      "path": "assets/gifs/mJhkYA1gnvY7r481qL.gif",
+      "sha256": "e01e39d5482cc86ca4a3a8cb4abae41d6c33c65bf74a30eaf2f091cebf3cbac0",
+      "bytes": 1746298
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/dvreHY4p06lzVSDrvj.gif",
+      "path": "assets/gifs/dvreHY4p06lzVSDrvj.gif",
+      "sha256": "b826ad663308e133ed1488fe3d34ea7fc096a812fd48b75da1547aeef38e339b",
+      "bytes": 1424098
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/8vRvucL4OhyjyM4A8T.gif",
+      "path": "assets/gifs/8vRvucL4OhyjyM4A8T.gif",
+      "sha256": "1520230f1ebca1ec874be00086bbbc7b3719f1f0b607c3d8b98233fde7cd95b8",
+      "bytes": 1400176
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/gfld3S4CsRXRZjqEj3.gif",
+      "path": "assets/gifs/gfld3S4CsRXRZjqEj3.gif",
+      "sha256": "2828bcea4cbd337564605441d7f1178fca1d068155c5ec4780df6ed8c85eb28f",
+      "bytes": 1335621
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/7bEpr3NIPNY0E.gif",
+      "path": "assets/gifs/7bEpr3NIPNY0E.gif",
+      "sha256": "f322f867840118f4373410e4cc22e4a2a43ae4502144de5dc31e1a81ce3ba2bc",
+      "bytes": 1253976
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/QLgtN0msAekg3x7YTm.gif",
+      "path": "assets/gifs/QLgtN0msAekg3x7YTm.gif",
+      "sha256": "9750b6ab118a8260deaa60326675752f86eaa979bc2f77a80ee0c2ac45da14d0",
+      "bytes": 1098051
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/dsd7XbYg0e6hG0A7i8.gif",
+      "path": "assets/gifs/dsd7XbYg0e6hG0A7i8.gif",
+      "sha256": "72731a9065c6b188ced5af62f83bcdff473282a6fd82cb0d6327616b733d5d93",
+      "bytes": 1042637
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/YRK6HL1CEMUxZHLvjl.gif",
+      "path": "assets/gifs/YRK6HL1CEMUxZHLvjl.gif",
+      "sha256": "5d82bab6c2a98eb070b6cccde3056bb647f0e1eddc160755aa020f9218d75aa3",
+      "bytes": 956424
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/YRQfWgn1De4nYLLQBa.gif",
+      "path": "assets/gifs/YRQfWgn1De4nYLLQBa.gif",
+      "sha256": "09a9a7ef471d47c72869f9e0b1d0baa1e1a2637a42885c176bd7848a78e6309c",
+      "bytes": 948532
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/NnMH7LDpZTPZS.gif",
+      "path": "assets/gifs/NnMH7LDpZTPZS.gif",
+      "sha256": "3570c014444bbd7ff81ec1e0f5591db3673c24b04056ccd2c0921ac299ed01bf",
+      "bytes": 906257
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/xUOwGcu6wd0cXBj5n2.gif",
+      "path": "assets/gifs/xUOwGcu6wd0cXBj5n2.gif",
+      "sha256": "9be7ca1e35409b4511b5dbf48d71673be0643ff458dbb3b6adf7c17173eb843b",
+      "bytes": 889855
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/3o6nV7ygKBVCmLPpJu.gif",
+      "path": "assets/gifs/3o6nV7ygKBVCmLPpJu.gif",
+      "sha256": "f90cb4e87df5f76a995de5865b0006bab9b1e40faa158165cd3ead9d44a926a2",
+      "bytes": 833793
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/p71BYIPogqBPy.gif",
+      "path": "assets/gifs/p71BYIPogqBPy.gif",
+      "sha256": "3f4d26fbce31b86c6165c329be56feb3268ff3e052cb2b7c42f7aeedd17a03cc",
+      "bytes": 796502
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/2seKKLp1n0sEeJLYTK.gif",
+      "path": "assets/gifs/2seKKLp1n0sEeJLYTK.gif",
+      "sha256": "f266586096b1f0e0e8dcda9945771014342725f1162e3108a479d5783ece4a97",
+      "bytes": 795170
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/PXj1J0eMONGOA.gif",
+      "path": "assets/gifs/PXj1J0eMONGOA.gif",
+      "sha256": "3ddb99c0b447f9544366999bea18e14e79d0c8420475730d8827c0603a58cd6b",
+      "bytes": 710688
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/5torEEM8QnR95Cqg11.gif",
+      "path": "assets/gifs/5torEEM8QnR95Cqg11.gif",
+      "sha256": "e071d57a38fdf46ea863e9c6f8d58ea6eb32f0de3a49f0ce42e6c035160f4b86",
+      "bytes": 692557
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/He1ppTVuaVSCs.gif",
+      "path": "assets/gifs/He1ppTVuaVSCs.gif",
+      "sha256": "b26cf7b40b952c5b2b032695b5ae0d5c444bb729f89f59367a2ab39c78a3c265",
+      "bytes": 665726
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/97e6IX0kayYTK.gif",
+      "path": "assets/gifs/97e6IX0kayYTK.gif",
+      "sha256": "ba6f3ae273aa5faab0e347c9d59857794da57a4aab439414c5496d8bb83b971b",
+      "bytes": 624691
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/3gTmgzy7wYJfyaGRHQ.gif",
+      "path": "assets/gifs/3gTmgzy7wYJfyaGRHQ.gif",
+      "sha256": "8490f1fbac59fc73e756eeb93af1490625e8ada45943ef6128cb2d28398c8d4a",
+      "bytes": 619486
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/3nbxypT20Ulmo.gif",
+      "path": "assets/gifs/3nbxypT20Ulmo.gif",
+      "sha256": "3cf501b9842cac3f0cb7a7637e8520ba912daefc9bab2b93c6cd382a2fc82ef1",
+      "bytes": 591331
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/v2WuhMBzb3h5e.gif",
+      "path": "assets/gifs/v2WuhMBzb3h5e.gif",
+      "sha256": "0d635f4ee07bdb7847b73df686b063c571713015015dcb9f17c30d43c738af09",
+      "bytes": 536079
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/ZyFCksxxD9tmLYfGJo.gif",
+      "path": "assets/gifs/ZyFCksxxD9tmLYfGJo.gif",
+      "sha256": "210770055108f88805472d811c0b6b1f54b84bf65f621b4f259f60f5fc314c33",
+      "bytes": 527516
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/j5zqQSABpeHCU8EpO3.gif",
+      "path": "assets/gifs/j5zqQSABpeHCU8EpO3.gif",
+      "sha256": "93060653bfd9f56d35d041bb6e1f62362975d664b58c71cef64dbaa7585ee80a",
+      "bytes": 509239
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/TNTyFBi6r9R6g.gif",
+      "path": "assets/gifs/TNTyFBi6r9R6g.gif",
+      "sha256": "4f05e92167bc16c372940cf4f2631c6fe8934edbb8c400301de77ede2b31a080",
+      "bytes": 468606
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/7FvaPVEKXuB3O.gif",
+      "path": "assets/gifs/7FvaPVEKXuB3O.gif",
+      "sha256": "46772383c6356c9177b8235a063ceff0b2c9ae1a5980ec9bfa63692b5b34cada",
+      "bytes": 468247
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/Wci9oW5MbO6PK.gif",
+      "path": "assets/gifs/Wci9oW5MbO6PK.gif",
+      "sha256": "fa9e7fa750542965866dd7461fd5d4a3d45b43ccde7eb61c84f3cb84c5250c79",
+      "bytes": 421616
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/qvkaMMMqyGFjO.gif",
+      "path": "assets/gifs/qvkaMMMqyGFjO.gif",
+      "sha256": "3a4658c898092cba1460afed21fed70655785c82e0051d9535bf53a012574cd7",
+      "bytes": 411171
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/4oHyOIBIt57ag.gif",
+      "path": "assets/gifs/4oHyOIBIt57ag.gif",
+      "sha256": "8300dbf349cad2e4c0be76745609d33f8f38895d9681db3565f34497983119d8",
+      "bytes": 392118
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/lkceXNDw4Agryfrwz8.gif",
+      "path": "assets/gifs/lkceXNDw4Agryfrwz8.gif",
+      "sha256": "802d13a3b475a22cc9d9eac31bb0c046f455be102bf2af951703dccec891205e",
+      "bytes": 384620
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/SJhhRPXjaTGe5MKz5N.gif",
+      "path": "assets/gifs/SJhhRPXjaTGe5MKz5N.gif",
+      "sha256": "16868029a4c30f91fa9561c53e3255cb91ea02ae9b7fe6cc92c7a09de6fc16d7",
+      "bytes": 325264
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/4YZNYcTybcYTnROykG.gif",
+      "path": "assets/gifs/4YZNYcTybcYTnROykG.gif",
+      "sha256": "651d3166a7f9821615d9cebb9183c8e36511b32af03ddb145b2aee66c4174e19",
+      "bytes": 308661
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/RcRYrpC1pBvIB0icDm.gif",
+      "path": "assets/gifs/RcRYrpC1pBvIB0icDm.gif",
+      "sha256": "3d63b14ae897bda0040a551dad24848b838fdea51e9809725bb623c8084073e3",
+      "bytes": 293176
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/9LZTcawH3mc8V2oUqk.gif",
+      "path": "assets/gifs/9LZTcawH3mc8V2oUqk.gif",
+      "sha256": "1c595791de7537307d74187b016c5df05993a4e69c539b8d4908e4060cf58347",
+      "bytes": 262815
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/pVGsAWjzvXcZW4ZBTE.gif",
+      "path": "assets/gifs/pVGsAWjzvXcZW4ZBTE.gif",
+      "sha256": "d95f1faec466dbf2a131d308017104553f3ec4c83902b48c7a3436e95f2fe23a",
+      "bytes": 245701
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/2SYqgPxMm2kbVe3y02.gif",
+      "path": "assets/gifs/2SYqgPxMm2kbVe3y02.gif",
+      "sha256": "7eec3bd2f5d58590311bf0a7ef26453508a4a8428292ba6fb48e557bff35507d",
+      "bytes": 212651
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/tvU9iTev6uBIQ.gif",
+      "path": "assets/gifs/tvU9iTev6uBIQ.gif",
+      "sha256": "2ebe0a77cf1c6bf892ee9bec7666731cf2ae1f3d5b2f93a1723dd7ede4bee402",
+      "bytes": 212492
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/H62NM1ab7wzMXURdoi.gif",
+      "path": "assets/gifs/H62NM1ab7wzMXURdoi.gif",
+      "sha256": "999c5c1c5b35d5811f6fa331398181ffe74b98f540c5d61f0ae0dadc91a50036",
+      "bytes": 186806
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/l1BgQOc1Jj7L86BA4.gif",
+      "path": "assets/gifs/l1BgQOc1Jj7L86BA4.gif",
+      "sha256": "6074202605692938f16fc089f8fd33585399eea4983b9b3e0d99b34ccb410084",
+      "bytes": 184163
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/gH1jGsCnQBiFHWMFzh.gif",
+      "path": "assets/gifs/gH1jGsCnQBiFHWMFzh.gif",
+      "sha256": "e61db1046e831521cae8948ae019fdcbebcfefc69df1dfd331d0abb8aca24fa9",
+      "bytes": 194722
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/11fHSR7hmRLbkA.gif",
+      "path": "assets/gifs/11fHSR7hmRLbkA.gif",
+      "sha256": "0ac1eef73f0fb1698963f8b8ab7e6b2d437c5fb130464239acf33f1000d2e104",
+      "bytes": 126133
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/ckr4W2ppxPBeIF8dx4.gif",
+      "path": "assets/gifs/ckr4W2ppxPBeIF8dx4.gif",
+      "sha256": "3c8db7a9aded267657fd428b3f6f5e230aa5e386e1bc5dcdc660049e58721234",
+      "bytes": 139421
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/vMSXa7KFGx49aeeXhe.gif",
+      "path": "assets/gifs/vMSXa7KFGx49aeeXhe.gif",
+      "sha256": "9e44325058d44494d7146cc9a8304669a2f701e2caf4d9c7fdf7f381e124a1b5",
+      "bytes": 92377
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/ZCZ7FHlu3sPek3h0zP.gif",
+      "path": "assets/gifs/ZCZ7FHlu3sPek3h0zP.gif",
+      "sha256": "b0de9a52e29098c6c2fbae3f2e10d24db68f924098d3b4daf1e437c7d9fc9869",
+      "bytes": 224495
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/9jwuxt5bXKadi.gif",
+      "path": "assets/gifs/9jwuxt5bXKadi.gif",
+      "sha256": "f4f02af45f663123290e23488659c8ce87c3a46523beb31adb5f97a595ca6a3f",
+      "bytes": 83190
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/6705G9I9sUcNCaJF10.gif",
+      "path": "assets/gifs/6705G9I9sUcNCaJF10.gif",
+      "sha256": "62a89af50db76639d658931f9f9158a4f60a7bbf75529b63fa2c255f11cb3415",
+      "bytes": 68378
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/static1.gif",
+      "path": "assets/gifs/static1.gif",
+      "sha256": "223f66bcb0e663e9eab5c2fb7aa0d5e84ed30b9dda9f3dd3c7a9e2a7cb4062bb",
+      "bytes": 305880
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/static2.gif",
+      "path": "assets/gifs/static2.gif",
+      "sha256": "2c0fa0af385cf3489f97780687923200386221cc3a4e614d494ee6940f00ca3b",
+      "bytes": 1795818
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/static3.gif",
+      "path": "assets/gifs/static3.gif",
+      "sha256": "09faefc5be52822d932c7abc320b65c42750de28aaf169e1412091d1f97f1a8a",
+      "bytes": 1016053
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/static4.gif",
+      "path": "assets/gifs/static4.gif",
+      "sha256": "14fd4848afe399cccdf5fa4e4d2cbf9a1b027266eeba70225be0ebc1d6d160c8",
+      "bytes": 1039605
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/static5.gif",
+      "path": "assets/gifs/static5.gif",
+      "sha256": "d42d3ff6f5421ba25e0e1fe67231cc96bae7a0d0e5d63eebcbcfa63142ec3c93",
+      "bytes": 1017992
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/static6.gif",
+      "path": "assets/gifs/static6.gif",
+      "sha256": "8de1ce677a38bb05f9b5c8c3c9774f5770bb2344e356b2779a1179507be6aa34",
+      "bytes": 829015
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/static7.gif",
+      "path": "assets/gifs/static7.gif",
+      "sha256": "0c14930d4d77ff11560b3f9b6bd6745e04bf9c20e53cbd9fa5154ac9f779c37f",
+      "bytes": 602470
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/static8.gif",
+      "path": "assets/gifs/static8.gif",
+      "sha256": "c9999ccb454b42f7e190a3501aa046e90e0a410aaca3e278d503c4f5b71e4357",
+      "bytes": 572577
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/station_thumb_5yx6BWlEVcY.gif",
+      "path": "assets/gifs/station_thumb_5yx6BWlEVcY.gif",
+      "sha256": "29ad23acaf01eb83162e58628434893c2b2be4ace3d0ffc84fe3c3abb5b6ddb1",
+      "bytes": 210171
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/station_thumb_7NOSDKb0HlU.gif",
+      "path": "assets/gifs/station_thumb_7NOSDKb0HlU.gif",
+      "sha256": "fec8d9b096582aba4f60d7b934356cf064b12dbc6cf99ca3e40189e999f18e8e",
+      "bytes": 281455
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/station_thumb_blAFxjhg62k.gif",
+      "path": "assets/gifs/station_thumb_blAFxjhg62k.gif",
+      "sha256": "fd368cc4468e86a785952dadd61c124a59922cbda9619cc3eb928013daf04385",
+      "bytes": 35324
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/station_thumb_TfmECBzmOn4.gif",
+      "path": "assets/gifs/station_thumb_TfmECBzmOn4.gif",
+      "sha256": "8ddb4583f6f49d30caea59770369a5b73f41e1f1f80cd8d010adc7e694f59fb7",
+      "bytes": 28133
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/station_thumb_lkcjlTqmoDY.gif",
+      "path": "assets/gifs/station_thumb_lkcjlTqmoDY.gif",
+      "sha256": "47b586b62a2e60813360cd951971615c2eb0f3fc7a7df95a3eab3bf4cc526dce",
+      "bytes": 50427
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/station_thumb_i6WzngxTnBA.gif",
+      "path": "assets/gifs/station_thumb_i6WzngxTnBA.gif",
+      "sha256": "ae63f9e87e0ae38b4420523449c67c9f24db5ac0e5a71a0b523d39fadd8e4559",
+      "bytes": 25567
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/station_thumb_UedTcufyrHc.gif",
+      "path": "assets/gifs/station_thumb_UedTcufyrHc.gif",
+      "sha256": "3f6b0024d3047a84b05c891195f89fa40fe96e4dc1b628d1304e46d08703833e",
+      "bytes": 435247
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/station_thumb_FWjZ0x2M8og.gif",
+      "path": "assets/gifs/station_thumb_FWjZ0x2M8og.gif",
+      "sha256": "8a5da9a893b47949b45c5378c3649eca088df099bfe90a1b74fd3467941298f6",
+      "bytes": 37023
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/station_thumb_qH3fETPsqXU.gif",
+      "path": "assets/gifs/station_thumb_qH3fETPsqXU.gif",
+      "sha256": "e45422a84473e9253dae5efc402bb5f48ce376066c69aa9bd74392cf5b827333",
+      "bytes": 3312956
+    },
+    {
+      "url": "https://media.lofi.cafe/v1/gifs/station_thumb_BLIKwfIJIyo.gif",
+      "path": "assets/gifs/station_thumb_BLIKwfIJIyo.gif",
+      "sha256": "86f744279397bdd2d853291dbef62b5e2e754ac4b20181b1dbbb0996ce8f4bbc",
+      "bytes": 231231
+    },
+    {
+      "url": "https://www.lofi.cafe/images/lines.jpg",
+      "path": "assets/images/lines.jpg",
+      "bytes": 597,
+      "sha256": "1452c54418e0c6d251bcfd32a34adc284e36f722ec3ca2b8514deec20b6983fa"
+    },
+    {
+      "url": "https://www.lofi.cafe/images/vignette.png",
+      "path": "assets/images/vignette.png",
+      "bytes": 12168,
+      "sha256": "b033bc41cf2ac1d34dd125bccbb19ae9fa03745a38290695ffd913ca2048aee1"
+    },
+    {
+      "url": "https://www.lofi.cafe/images/cursors/default.svg",
+      "path": "assets/images/cursors/default.svg",
+      "bytes": 1678,
+      "sha256": "30f14fc20974b4b6a92237a70ca0cd54bb7abfceeee46ad0bfe230b396ffd027"
+    },
+    {
+      "url": "https://www.lofi.cafe/images/cursors/pointer.svg",
+      "path": "assets/images/cursors/pointer.svg",
+      "bytes": 2090,
+      "sha256": "c3ead90dce28e44f2a65c13f67759dfc91b3be773e68d3dcb98ffa8f71a5bb34"
+    },
+    {
+      "url": "https://www.lofi.cafe/fonts/ChronoType.woff",
+      "path": "assets/fonts/ChronoType.woff",
+      "bytes": 83784,
+      "sha256": "296615f5c3ee9842810a2bb052cce9d52edfc64ba64f90d193e0f6188c260495"
+    },
+    {
+      "url": "https://www.lofi.cafe/favicon.ico",
+      "path": "favicon.ico",
+      "bytes": 32988,
+      "sha256": "9d53bd0023abef728c77f6970727cdcb13b7920692ca77d5315506685076b8ad"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/vt323/v18/pxiKyp0ihIEF2hsY.ttf",
+      "path": "assets/fonts/vt323.ttf",
+      "bytes": 147320,
+      "sha256": "954e44d25e0ccd643f4ef15e75d56d3d76590d3c2b1e42b71b13d5df740a51a6"
+    }
+  ]
+}
